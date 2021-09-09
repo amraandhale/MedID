@@ -4,24 +4,17 @@
 Modernising clinics.
 Revolutionised Smart, hassle-free care.</q>
 
+<hr></hr>
 
 
 <p>Socially Distanced QR based Check-Ins </p>
 
-
 <p>Cloud Based Digital Medical Records</p>
 
-
-
 <p>Appointment Management and Invoicing  </p>
-
-
 
 <p>Improve Patient Retention and Satisfaction</p>
 
 
-
-
-
-
-<h3>go to MeDId</h3>:https://www.medid.in/
+<hr></hr>
+<h3>Go To MeDId</h3>:https://www.medid.in/
