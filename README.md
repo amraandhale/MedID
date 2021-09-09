@@ -6,14 +6,16 @@ Revolutionised Smart, hassle-free care.</q>
 
 <hr></hr>
 
+<ul>
+  <li>Socially Distanced QR based Check-Ins </li>
 
-<p>Socially Distanced QR based Check-Ins </p>
+<li>Cloud Based Digital Medical Records</li>
 
-<p>Cloud Based Digital Medical Records</p>
+<li>Appointment Management and Invoicing  </li>
 
-<p>Appointment Management and Invoicing  </p>
+<li>Improve Patient Retention and Satisfaction</li>
+</ul>
 
-<p>Improve Patient Retention and Satisfaction</p>
 
 
 <hr></hr>
